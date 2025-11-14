@@ -18,6 +18,7 @@ int main() {
     std::cout << "Enter an integer: ";
     std::cin >> num;
     checkOddEven(num);
+	// print 
     std::cout << "Program finished." << std::endl;
     return 0;
 }
