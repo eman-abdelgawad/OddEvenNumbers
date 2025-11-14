@@ -1,6 +1,6 @@
 #include <iostream>
 
-int x = 90;
+int x = 17;
 int y = 20;
 
 //method to checkOddEven
