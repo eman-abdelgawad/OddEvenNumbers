@@ -1,5 +1,5 @@
 #include <iostream>
-
+int x = 50;
 //method to checkOddEven
 void checkOddEven(int num)
 {
